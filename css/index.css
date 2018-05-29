@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC');
+
+:root {
+    font-family:'Bowlby+One+SC', Arial;
+}
+body {
+    max-width: 980px;
+    margin: auto;
+   
+}
+body {
+    color: red;
+}
+
+header nav {
+    display: flex;
+}
+
+header nav ul li {
+    display: inline;
+}
